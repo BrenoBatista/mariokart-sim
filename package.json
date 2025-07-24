@@ -1,0 +1,19 @@
+{
+  "name": "mariokart-sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrenoBatista/mariokart-sim.git"
+  },
+  "author": "Breno N Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrenoBatista/mariokart-sim/issues"
+  },
+  "homepage": "https://github.com/BrenoBatista/mariokart-sim#readme"
+}
