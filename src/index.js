@@ -42,6 +42,9 @@ async function playRaceEngine(character1, character2) {
         let block = await getRandomBlock();
         console.log(`Bloco: ${block}`)
     }
+
+    let diceRusult1 = await rollDice();
+    let diceRusult2 = await rollDice();
 }
 
 (async function main(){
