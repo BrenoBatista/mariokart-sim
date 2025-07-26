@@ -21,7 +21,7 @@
         </td>
         <td style="border: 1px solid black; text-align: center;">
             <p>Velocidade: 4</p>
-            <p>Manobrabilidade: 3</p>
+            <p>Manobrabilidade: 4</p>
             <p>Poder: 3</p>
         </td>
         <td style="border: 1px solid black; text-align: center;">
